@@ -1,2 +1,2 @@
 # hello-world
-A start to my journey. 
+Hello, I am a graduate from the University at Albany pursuing a career in Data Science. 
